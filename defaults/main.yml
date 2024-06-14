@@ -1,1 +1,4 @@
-
+---
+# defaults file for venkat_role
+ mysql_package_name:  mysql-server
+ mysql_package_state:  present
