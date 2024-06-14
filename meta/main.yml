@@ -1,7 +1,7 @@
 galaxy_info:
-  author: Ashish
+  author: Venkatesh
   role_name: jenkins
-  namespace: kharea970
+  namespace: venkey12319
   description: Install and configure jenkins
   company: none
   license: Apache-2.0
