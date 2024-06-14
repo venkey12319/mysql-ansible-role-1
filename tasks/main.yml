@@ -1,1 +1,5 @@
-
+---
+# tasks file for venkat_role
+# roles/apache/tasks/main.yml
+- name: Include Maven tasks
+  include_tasks: maven.yaml
