@@ -1,1 +1,23 @@
-
+galaxy_info:
+  author: Ashish
+  role_name: jenkins
+  namespace: kharea970
+  description: Install and configure jenkins
+  company: none
+  license: Apache-2.0
+  min_ansible_version: "2.10"
+  platforms:
+    - name: Fedora
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - bullseye
+  galaxy_tags:
+    - apache
+    - mysql
+    - system
+    - database
