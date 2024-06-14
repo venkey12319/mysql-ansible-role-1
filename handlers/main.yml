@@ -1,1 +1,8 @@
+---
+# handlers file for venkat_role
 
+# Define your handlers here, for example:
+# - name: restart mysql
+#   service:
+#     name: mysql
+#     state: restarted
